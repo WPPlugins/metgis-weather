@@ -1,0 +1,168 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+#metgiswather {
+	background:url('../images/default-background.jpg');
+	background-size:cover;
+	background-position:center center;
+	color:#fff;
+	text-shadow:1px 1px 1px #000;
+	width:100%;
+	box-sizing:border-box;
+	font-family: 'Lato', sans-serif;
+	position:relative;
+}
+#metgiswather * {
+	box-sizing:border-box;
+}
+
+
+#metgiswather .today.name SMALL {
+    font-size: 1em;
+}
+
+
+#metgiswather .forecast, .more, .current {
+    margin: auto;
+    border-top:1px solid #fff;
+    padding:10px;
+    float:left;
+    width:100%;
+}
+
+#metgiswather .current {
+	height: auto;
+	border:0px;
+}
+#metgiswather .current div {
+    width: 40%;
+    float:left;
+}
+#metgiswather .current .icon, #metgiswather .current .temp {
+    width: 100%;
+		text-align:center !important;
+		margin-top:-20px;
+}
+
+#metgiswather .state {
+	width:35%;
+	margin-top:15px
+}
+
+#metgiswather .day {
+    float: left;
+    width: 33%;
+    text-align:center;
+}
+#metgiswather .clearer {
+	clear:both;
+}
+
+#metgiswather .more {
+	text-align:center;
+}
+
+#metgiswather .more .source {
+	font-size:0.8em;
+	margin-top:20px;
+}
+
+#metgiswather .state .wi, #metgiswather .state .temp{
+	font-size:2em;
+}
+#metgiswather .state .temp {
+	font-size:1.4em;
+	margin-top:5px;
+	margin-right:10px;
+	text-align:left;
+}
+
+#metgiswather .detail {
+	font-size:0.8em;
+}
+#metgiswather .wrapper {
+	width:100%;
+	height:100%;
+	background: rgba(0,0,0,0.2);
+	padding:10px;
+}
+
+#metgiswather .day .temp {
+	font-size:1em;
+	margin-bottom:0px;
+}
+#metgiswather .detail {
+	width:60% !important;
+	text-align:left;
+	line-height:2.1;
+}
+
+#metgiswather a {
+	color:#fff;
+	text-decoration:none;
+	display:block;
+}
+
+#metgiswather .title {
+	text-align:center;
+	font-weight:bold;
+	font-size:1.2em;
+	padding:10px;
+	background:rgba(0,0,0,0.3);
+	margin:-10px;
+	margin-bottom:10px;
+}
+
+
+#metgiswather .icon img {
+    width: 45px !important;
+}
+#metgiswather .state .icon img {
+    width: 70px  !important
+}
+
+#metgiswather .current div.today {
+	text-align:center;
+	margin-top:-10px;
+	width:100%;
+	margin-bottom:10px;
+}
+
+#metgiswather.landscape {
+	min-width:400px;
+	height:auto;
+}
+#metgiswather.landscape .current, #metgiswather.landscape .forecast {
+	width:49% !important;
+	border-top:0px !important;
+	padding-right:20px;
+}
+#metgiswather.landscape .forecast {
+	border-left:1px solid #fff;
+	padding-left:0px;
+	padding-right:0px;
+	
+}
+#metgiswather .temp > small {
+    display: block;
+    font-size: 0.6em;
+    margin-top: -5px;
+		opacity: 0.6;
+}
+
+#metgiswather .metgisicon {
+    clear: both;
+    display: inline-block;
+    margin-top: -1px;
+    text-align: center !important;
+    width: 20px !important;
+		margin-right:5px;
+}
+.metgisicon img {
+    height: 16px;
+}
+
+#metgiswather .detail .description {
+  line-height: 1.5;
+  width: 100%;
+  margin-bottom: 4px;
+}

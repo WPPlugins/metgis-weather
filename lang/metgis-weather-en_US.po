@@ -1,0 +1,218 @@
+msgid "TODAY"
+msgstr "Today"
+
+msgid "WIND_SHORT"
+msgstr "WND"
+
+msgid "WIND"
+msgstr "Wind"
+
+msgid "PRECIPITATION_SHORT"
+msgstr "PREC"
+
+msgid "PRECIPITATION"
+msgstr "Precipitation"
+
+msgid "SNOW_SHORT"
+msgstr "SNOW"
+
+msgid "SNOW"
+msgstr "Snow"
+
+msgid "RAIN_SHORT"
+msgstr "RAIN"
+
+msgid "RAIN"
+msgstr "Rainfall"
+
+msgid "HUMIDITY_SHORT"
+msgstr "HUM"
+
+msgid "HUMIDITY"
+msgstr "Relative humidity"
+
+msgid "SUNDURATION"
+msgstr "Sunshine duration"
+
+msgid "SUNDURATION_SHORT"
+msgstr "SUN"
+
+msgid "SUNRISE_SHORT"
+msgstr "RISE/SET"
+
+msgid "SUNRISE"
+msgstr "Sunrise and sunset"
+
+msgid "DETAILEDLINK"
+msgstr "Show detailed information"
+
+msgid "MON"
+msgstr "MON"
+
+msgid "TUE"
+msgstr "TUE"
+
+msgid "WED"
+msgstr "WED"
+
+msgid "THU"
+msgstr "THU"
+
+msgid "FRI"
+msgstr "FRI"
+
+msgid "SAT"
+msgstr "SAT"
+
+msgid "SUN"
+msgstr "SUN"
+
+msgid "MONDAY"
+msgstr "Monday"
+
+msgid "TUESDAY"
+msgstr "Tuesday"
+
+msgid "WEDNESDAY"
+msgstr "Wednesday"
+
+msgid "THURSDAY"
+msgstr "Thursday"
+
+msgid "FRIDAY"
+msgstr "Friday"
+
+msgid "SATURDAY"
+msgstr "Saturday"
+
+msgid "SUNDAY"
+msgstr "Sunday"
+
+msgid "METGISAPIKEY"
+msgstr "MetGIS API-Key"
+
+msgid "TITEL"
+msgstr "Title"
+
+msgid "KOORDINATENLATLON"
+msgstr "Coordinates (latitude, longitude)"
+
+msgid "HOEHE"
+msgstr "Altitude"
+
+msgid "TAGEVORSCHAU"
+msgstr "# Days Forecast"
+
+msgid "NIEDERSCHLAGANZEIGEN"
+msgstr "Show precipitation amount"
+
+msgid "SCHNEEFALLANZEIGEN"
+msgstr "Show fresh snow amount"
+
+msgid "WINDANZEIGEN"
+msgstr "Show wind"
+
+msgid "BESCHREIBUNGANZEIGEN"
+msgstr "Show weather short description"
+
+msgid "TEMPERATURANZEIGEN"
+msgstr "Show temperature"
+
+msgid "DETAILLINK"
+msgstr "Show link to detailed forecast"
+
+msgid "WETTERABHAENGIGERHINTERGRUND"
+msgstr "Change background image according to weather"
+
+msgid "WOCHENTAGEANZEIGEN"
+msgstr "Show days of week, not date"
+
+msgid "KMSTATTMS"
+msgstr "Show km/h, not m/s"
+
+msgid "FSTATTC"
+msgstr "Show °F, not °C"
+
+msgid "TITELANZEIGEN"
+msgstr "Show text as"
+
+msgid "ABKUERZUNGEN"
+msgstr "Show text as: Abbreviations"
+
+msgid "VOLLTEXT"
+msgstr "Show text as: Full Text"
+
+msgid "ICONS"
+msgstr "Show text as: Icons"
+
+msgid "SCHRIFTFARBE"
+msgstr "Text color"
+
+msgid "SCHRIFTSCHATTEN"
+msgstr "Text shadow"
+
+msgid "BACKGROUNDIMAGE"
+msgstr "Custom background image"
+
+msgid "SELECT_IMAGE"
+msgstr "Select image"
+
+msgid "USE_STANDARD"
+msgstr "Use default"
+
+msgid "PAGE_DETAIL"
+msgstr "Detailed Information"
+
+msgid "ICONSETVERWENDEN"
+msgstr "Choose Icons"
+
+msgid "ICONSET1"
+msgstr "Iconset 1"
+
+msgid "ICONSET2"
+msgstr "Iconset 2"
+
+msgid "ICONSET3"
+msgstr "Iconset 3"
+
+msgid "MAKELANDSCAPE"
+msgstr "Landscape mode"
+
+msgid "INCHSTATTM"
+msgstr "Show inches+feet, not mm+cm+m"
+
+msgid "RAINFALLANZEIGEN"
+msgstr "Show rainfall amount "
+
+msgid "FEUCHTIGKEITANZEIGEN"
+msgstr "Show relative humidity"
+
+msgid "SONNENDAUERANZEIGEN"
+msgstr "Show sunshine duration"
+
+msgid "AUFUNTERGANGANZEIGEN"
+msgstr "Show sunrise and sunset "
+
+msgid "PLUGINWIDTH"
+msgstr "Width of widget in pixels (optional)"
+
+msgid "METGISINFO"
+msgstr "powered by MetGIS"
+
+msgid "DATEFORMAT"
+msgstr "Date Format"
+
+msgid "TIMEFORMAT"
+msgstr "Time Format"
+
+msgid "CALLLIMIT"
+msgstr "Up to 3000 calls per month included."
+
+msgid "BGNOTICE"
+msgstr "Note: This option replaces your custom background image"
+
+msgid "WIDTHNOTICE"
+msgstr "Note: If blank, the widget adjusts to the available space"
+
+msgid "PAGEDETAIL_INFO"
+msgstr "Select page to show detailed information"

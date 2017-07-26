@@ -1,0 +1,216 @@
+msgid "TODAY"
+msgstr "Heute"
+
+msgid "WIND_SHORT"
+msgstr "WND"
+
+msgid "WIND"
+msgstr "Wind"
+
+msgid "PRECIPITATION_SHORT"
+msgstr "NS"
+
+msgid "PRECIPITATION"
+msgstr "Niederschlag"
+
+msgid "SNOW_SHORT"
+msgstr "SN"
+
+msgid "SNOW"
+msgstr "Neuschnee"
+
+msgid "RAIN_SHORT"
+msgstr "RGN"
+
+msgid "RAIN"
+msgstr "Regenmenge"
+
+msgid "HUMIDITY_SHORT"
+msgstr "FEU"
+
+msgid "HUMIDITY"
+msgstr "Relative Feuchte"
+
+msgid "SUNDURATION_SHORT"
+msgstr "SONNE"
+
+msgid "SUNDURATION"
+msgstr "Sonnenscheindauer"
+
+msgid "SUNRISE_SHORT"
+msgstr "AUF, UNTG."
+
+msgid "SUNRISE"
+msgstr "Sonnenauf- und -untergang"
+
+msgid "DETAILEDLINK"
+msgstr "Detaillierte Wetterinfos anzeigen"
+
+msgid "MON"
+msgstr "MO"
+
+msgid "TUE"
+msgstr "DI"
+
+msgid "WED"
+msgstr "MI"
+
+msgid "THU"
+msgstr "DO"
+
+msgid "FRI"
+msgstr "FR"
+
+msgid "SAT"
+msgstr "SA"
+
+msgid "SUN"
+msgstr "SO"
+
+msgid "MONDAY"
+msgstr "Montag"
+
+msgid "TUESDAY"
+msgstr "Dienstag"
+
+msgid "WEDNESDAY"
+msgstr "Mittwoch"
+
+msgid "THURSDAY"
+msgstr "Donnerstag"
+
+msgid "FRIDAY"
+msgstr "Freitag"
+
+msgid "SATURDAY"
+msgstr "Samstag"
+
+msgid "SUNDAY"
+msgstr "Sonntag"
+
+
+msgid "METGISAPIKEY"
+msgstr "MetGIS API-Key"
+
+msgid "TITEL"
+msgstr "Titel"
+
+msgid "KOORDINATENLATLON"
+msgstr "Koordinaten (geogr. Breite, Länge)"
+
+msgid "HOEHE"
+msgstr "Seehöhe"
+
+msgid "TAGEVORSCHAU"
+msgstr "# Tage Vorschau"
+
+msgid "NIEDERSCHLAGANZEIGEN"
+msgstr "Niederschlagsmenge anzeigen"
+
+msgid "SCHNEEFALLANZEIGEN"
+msgstr "Neuschneemenge anzeigen"
+
+msgid "WINDANZEIGEN"
+msgstr "Wind anzeigen"
+
+msgid "BESCHREIBUNGANZEIGEN"
+msgstr "Wetter-Kurzbeschreibung anzeigen"
+
+msgid "TEMPERATURANZEIGEN"
+msgstr "Temperatur anzeigen"
+
+msgid "DETAILLINK"
+msgstr "Detail-Link anzeigen"
+
+msgid "WETTERABHAENGIGERHINTERGRUND"
+msgstr "Wetterabhängiger Hintergrund"
+
+msgid "WOCHENTAGEANZEIGEN"
+msgstr "Wochentage statt Datum"
+
+msgid "KMSTATTMS"
+msgstr "km/h statt m/s"
+
+msgid "FSTATTC"
+msgstr "°F statt °C"
+
+msgid "TITELANZEIGEN"
+msgstr "Text anzeigen als"
+
+msgid "ABKUERZUNGEN"
+msgstr "Abkürzungen"
+
+msgid "VOLLTEXT"
+msgstr "Volltext"
+
+msgid "ICONS"
+msgstr "Icons"
+
+msgid "SCHRIFTFARBE"
+msgstr "Schriftfarbe"
+
+msgid "SCHRIFTSCHATTEN"
+msgstr "Schriftschatten"
+
+msgid "BACKGROUNDIMAGE"
+msgstr "Eigenes Hintergrundbild"
+
+msgid "SELECT_IMAGE"
+msgstr "Bild auswählen"
+
+msgid "USE_STANDARD"
+msgstr "Standard verwenden"
+
+msgid "PAGE_DETAIL"
+msgstr "Seite für Detail-Infos"
+
+msgid "ICONSETVERWENDEN"
+msgstr "Icon-Set auswählen"
+
+msgid "ICONSET1"
+msgstr "Icon-Set 1"
+
+msgid "ICONSET2"
+msgstr "Icon-Set 2"
+
+msgid "ICONSET3"
+msgstr "Icon-Set 3"
+
+msgid "INCHSTATTM"
+msgstr "inches+feet statt mm+cm+m"
+
+msgid "RAINFALLANZEIGEN"
+msgstr "Regenmenge anzeigen"
+
+msgid "FEUCHTIGKEITANZEIGEN"
+msgstr "Relative Feuchte anzeigen"
+
+msgid "SONNENDAUERANZEIGEN"
+msgstr "Sonnenscheindauer anzeigen"
+
+msgid "AUFUNTERGANGANZEIGEN"
+msgstr "Sonnenauf- und untergang anzeigen"
+
+msgid "MAKELANDSCAPE"
+msgstr "Querformat-Modus"
+
+msgid "PLUGINWIDTH"
+msgstr "Widget-Breite in Pixeln (optional)"
+ 
+msgid "METGISINFO"
+msgstr "Daten von MetGIS"
+
+msgid "DATEFORMAT"
+msgstr "Datumsformat"
+
+msgid "TIMEFORMAT"
+msgstr "Zeitformat"
+
+msgid "CALLLIMIT"
+msgstr "Bis zu 3000 Aufrufe pro Monat inkludiert"
+
+msgid "BGNOTICE"
+msgstr "Hinweis: Diese Option ersetzt das eigene Hintergrundbild"
+
+msgid "PAGEDETAIL_INFO"
+msgstr "Wählen Sie die Seite, auf der detaillierte Informationen angezeigt werden sollen."
